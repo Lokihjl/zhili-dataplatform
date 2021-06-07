@@ -1,3 +1,13 @@
 # Project exclude paths
 /zhili-dataservice/zhili-dataservice-admin/target/
 /zhili-dataservice/zhili-dataservice-api/target/
+/target/
+.target
+.idea
+.classpath
+.project
+.settings
+*.classpath
+*.project
+*.settings
+*.iml
